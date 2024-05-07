@@ -1,0 +1,9 @@
+<!-- activity_feed.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp">
+
+    <!-- Agregar vistas para mostrar las publicaciones del feed de noticias, como imágenes y texto, y botones para interactuar con las publicaciones, como botones de like y comentario. -->
+
+</RelativeLayout>
